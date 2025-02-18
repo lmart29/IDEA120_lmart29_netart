@@ -19,7 +19,7 @@ p {
 }
 
 img {
-  display: block;
+  display: inline;
   float: left;
   width: 30%;
 }
