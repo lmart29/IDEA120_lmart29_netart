@@ -7,7 +7,6 @@ body {
 h1 {
   color: antiquewhite;
   text-align: left;
-  font-family: aldrich;
 }
 
 h2 {
@@ -15,13 +14,11 @@ h2 {
   text-align: left;
   font-size: 17px;
   margin-top: -10px;
-  font-family: aldrich;
 }
 
 p {
   color: antiquewhite;
   margin-top: 40px;
-  font-family: aldrich;
   font-size: 17px;
   text-align: left;
 }
