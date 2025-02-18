@@ -1,24 +1,26 @@
 body {
-  background-image: url("image4.jpeg");
+  background-color: darkslategray;
   margin-top: 15px;
     margin-left: 15px;
 }
 
 h1 {
-  color: darkblue;
+  color: antiquewhite;
   text-align: left;
   font-family: georgia;
 }
 
 h2 {
-  color: darkblue;
+  color: antiquewhite;
   text-align: left;
   font-size: 17px;
   margin-top: -10px;
   font-family: georgia;
 }
 
-p {margin-top: 40px;
+p {
+  color: antiquewhite;
+  margin-top: 40px;
   font-family: georgia;
   font-size: 17px;
   text-align: left;
